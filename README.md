@@ -16,4 +16,4 @@ This is a vision enhancer based module specifically for the BLIND VICTIMS. The s
 ## TODO
 * Make it dynamic over Cloud systems.
 * Provide features to input class of Object.
-
+* Reduce overhead in processing
